@@ -16,19 +16,17 @@ After saving the settings, it removes the Sidebar and Dashboard Widgets selected
 
 **Developer? Get to know the hooks**
 
-First of all, this plugin is strucuted on the shoulders of the fantastic [WordPress Plugin Boilerplate](https://github.com/tommcfarlin/WordPress-Plugin-Boilerplate/) by [Tom McFarlin](http://profiles.wordpress.org/tommcfarlin/), you might could use this too for your next plugin.
-
 Let’s have a look at the filters we provide:
 
-* `rplus_wp_widget_disable_capability` change the min. capability to change the settings, defaults to `edit_theme_options`.
-* `rplus_wp_widget_disable_default_sidebar_filter` gives you back the list (array) of all sidebar widgets before we store them, so you could basically remove sidebar widgets from being disabled.
-* `rplus_wp_widget_disable_default_dashboard_filter` gives you back the list (array) of all dashboard widgets before we sotre them, so you could basically remove dashboard widgets from being disabled.
+* `rplus_wp_widget_disable_capability`: Change the required capability for disabling widgets. Defaults to `edit_theme_options`.
+* `rplus_wp_widget_disable_default_sidebar_filter`: Lets you change the list of all sidebar widgets before we store them, so you could basically exclude sidebar widgets from being disabled by the plugin.
+* `rplus_wp_widget_disable_default_dashboard_filter`: Lets you change the list of all dashboard widgets before we store them, so you could basically exclude dashboard widgets from being disabled by the plugin.
 
 **Contributions**
 
 If you would like to contribute to this plugin, report an isse or anything like that, please note that we develop this plugin on [GitHub](https://github.com/wearerequired/WP-Widget-Disable).
 
-Developed by [required+](http://required.ch/ „Team of experienced web professionals from Switzerland & Germany“)
+Developed by [required+](http://required.ch/ "Team of experienced web professionals from Switzerland & Germany")
 
 == Installation ==
 

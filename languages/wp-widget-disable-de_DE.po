@@ -1,0 +1,130 @@
+# Copyright (C) 2015 required+
+# This file is distributed under the GPLv2+.
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Widget Disable 1.1.2\n"
+"Report-Msgid-Bugs-To: http://required.ch\n"
+"POT-Creation-Date: 2015-04-17 11:48:39+00:00\n"
+"PO-Revision-Date: 2015-04-22 21:04+0100\n"
+"Last-Translator: Pascal Birchler <pascal@required.ch>\n"
+"Language-Team: required+ <support@required.ch>\n"
+"Language: de_DE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.5\n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/plugin.php:94
+msgid "Disable Sidebar and Dashboard Widgets"
+msgstr "Deaktiviere Sidebar- und Dashboard-Widgets"
+
+#: classes/plugin.php:95
+msgid "Disable Widgets"
+msgstr "Widgets deaktivieren"
+
+#: classes/plugin.php:126
+msgid "Settings"
+msgstr "Einstellungen"
+
+#: classes/plugin.php:145
+msgid "%s is brought to you by %s. We &hearts; WordPress."
+msgstr "%s wurde entwickelt von %s. Wir &hearts; WordPress."
+
+#: classes/plugin.php:214
+msgid "All Sidebar Widgets are enabled again."
+msgstr "Alle Sidebar Widgets sind wieder aktiviert."
+
+#: classes/plugin.php:224
+msgid "Settings saved. Disabled %s Sidebar Widget for you."
+msgid_plural "Settings saved. Disabled %s Sidebar Widgets for you."
+msgstr[0] "Einstellungen gespeichert. %s Sidebar Widget deaktiviert."
+msgstr[1] "Einstellungen gespeichert. %s Sidebar Widgets deaktiviert."
+
+#: classes/plugin.php:249
+msgid "All Dashboard Widgets are enabled again."
+msgstr "Alle Dashboard Widgets sind wieder aktiviert."
+
+#: classes/plugin.php:259
+msgid "Settings saved. Disabled %s Dashboard Widget for you."
+msgid_plural "Settings saved. Disabled %s Dashboard Widgets for you."
+msgstr[0] "Einstellungen gespeichert. %s Dashboard Widget deaktiviert."
+msgstr[1] "Einstellungen gespeichert. %s Dashboard Widgets deaktiviert."
+
+#: classes/plugin.php:284
+msgid "Disable Sidebar Widgets"
+msgstr "Sidebar-Widgets deaktivieren"
+
+#: classes/plugin.php:290 views/admin.php:32
+msgid "Sidebar Widgets"
+msgstr "Sidebar-Widgets"
+
+#: classes/plugin.php:303
+msgid ""
+"Check the boxes with the <strong>Sidebar Widgets</strong> you would like to "
+"disable for this site. Please note that a widget could still be called using "
+"code."
+msgstr ""
+"Wähle die Checkboxen der <strong>Sidebar-Widgets</strong>, welche du "
+"deaktivieren möchtest. Bitte beachte, dass ein Widget immer noch via Code "
+"instanziert werden kann."
+
+#: classes/plugin.php:314
+msgid ""
+"Oops, we could not retrieve the Sidebar Widgets! Maybe there is another "
+"plugin already managing theme?"
+msgstr ""
+"Hoppla, wir konnten keine Sidebar-Widgets finden! Vielleicht werden diese "
+"bereits durch ein anderes Plugin verwaltet?"
+
+#: classes/plugin.php:320 classes/plugin.php:388
+msgid "Select all"
+msgstr "Alle auswählen"
+
+#: classes/plugin.php:344
+msgid "Disable Dashboard Widgets"
+msgstr "Dashboard-Widgets deaktivieren"
+
+#: classes/plugin.php:350 views/admin.php:36
+msgid "Dashboard Widgets"
+msgstr "Dashboard-Widgets"
+
+#: classes/plugin.php:363
+msgid ""
+"Check the boxes with the <strong>Dashboard Widgets</strong> you would like "
+"to disable for this site."
+msgstr ""
+"Wähle die Checkboxen der <strong>Dashboard-Widgets</strong>, welche du "
+"deaktivieren möchtest."
+
+#. Plugin Name of the plugin/theme
+msgid "WP Widget Disable"
+msgstr "WP Widget Disable"
+
+#. Author URI of the plugin/theme
+msgid "http://required.ch"
+msgstr "http://required.ch"
+
+#. Description of the plugin/theme
+msgid ""
+"Disable Sidebar and Dashboard Widgets with an easy to use interface. Simply "
+"use the checkboxes provided under <strong>Appearance -> Disable Widgets</"
+"strong> and select the Widgets you'd like to hide."
+msgstr ""
+"Deaktiviere Sidebar- und Dashboard-Widgets über eine einfach zu bedienende "
+"Benutzeroberfläche. Verwende die Checkboxen unter <strong>Design -> Widgets "
+"deaktivieren</strong> um Widgets zu deaktivieren."
+
+#. Author of the plugin/theme
+msgid "required+"
+msgstr "required+"
+
+#~ msgid "http://required.ch/"
+#~ msgstr "http://required.ch/"

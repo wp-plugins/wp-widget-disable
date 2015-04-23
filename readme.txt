@@ -28,7 +28,7 @@ Let’s have a look at the filters we provide:
 
 If you would like to contribute to this plugin, report an isse or anything like that, please note that we develop this plugin on [GitHub](https://github.com/wearerequired/WP-Widget-Disable).
 
-Developed by [required+](http://required.ch/ „Team of experienced web professionals from Switzerland & Germany“)
+Developed by [required+](http://required.ch/ "Team of experienced web professionals from Switzerland & Germany")
 
 == Installation ==
 

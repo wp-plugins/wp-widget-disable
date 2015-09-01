@@ -3,8 +3,8 @@ Contributors:      wearerequired, neverything, swissspidy
 Donate link:       http://required.ch  
 Tags:              widgets, admin, dashboard, sidebar widgets, dashboard widgets, disable widgets  
 Requires at least: 3.5.1  
-Tested up to:      4.2  
-Stable tag:        1.2.0  
+Tested up to:      4.3  
+Stable tag:        1.3.0  
 License:           GPLv2 or later  
 License URI:       http://www.gnu.org/licenses/gpl-2.0.html  
 
@@ -49,6 +49,10 @@ None so far. But you can ask as any time on [twitter](https://twitter.com/wearer
 
 == Changelog ==
 
+= 1.3.0 =
+* New: The widget list items are now translatable.
+* Enhancement: Code cleanup, ensuring WordPress 4.3 compatibility.
+
 = 1.2.0 =
 * Fixed: Make the settings tabs a bit more robust and secure.
 * Complete rewrite of the plugin using our `grunt-wp-plugin` boilerplate.
@@ -60,11 +64,11 @@ None so far. But you can ask as any time on [twitter](https://twitter.com/wearer
 = 1.1.1 =
 * New: Repdigit version number.
 * Fixed: Added correct changelog.
-* Fixed: Properly translate „Select all“ option.
+* Fixed: Properly translate "Select all" option.
 
 = 1.1.0 =
 * New: Get Dashboard Widgets without roundtrip to the dashboard first.
-* New: „Select all“ option to disable all widgets in one go.
+* New: "Select all" option to disable all widgets in one go.
 * New: Added German (Switzerland) translation.
 * Enhancement: Code cleanup! We’re doing more with less code now.
 * Fixed: Lots of bugs and typos.
@@ -79,6 +83,9 @@ None so far. But you can ask as any time on [twitter](https://twitter.com/wearer
 * German (de_DE) translations added.
 
 == Upgrade Notice ==
+
+= 1.3.0 =
+Minor code cleanup. Works great with WordPress 4.3!
 
 = 1.2.0 =
 Complete revamp of the plugin to make it more shiny and secure!
